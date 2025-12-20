@@ -17,9 +17,9 @@ I am a **third-year Information Technology undergraduate** at the **University o
 - 🎓 Studying IT at **University of Moratuwa**
 - 💻 Full Stack Web Developer
 - 🤖 Building AI-powered applications
-- 🌱 Currently exploring **RAG & LLMs**
-- 🔭 Looking for **Software Engineering Internship** opportunities
-- 📫 Reach me at: **dilushaprabashwarao@gmail.com**
+- 🤖 Currently exploring **RAG & LLMs**
+- 🔗 Reach me at: **dilushaprabashwarao@gmail.com**
+- 🔗 Connect with me on: **[LinkedIn](https://www.linkedin.com/in/dilusha-prabashwara)**
 
 ---
 
@@ -84,28 +84,5 @@ I am a **third-year Information Technology undergraduate** at the **University o
   <img src="https://github-profile-trophy.vercel.app/?username=dilusha-ola&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
 </div>
 
----
 
-## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dilusha-ola&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
-<div align="center">
-  
-### 💡 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
-
-</div>
-
----
-
-<div align="center">
-  Made with ❤️ by Dilusha Prabashwara
-</div>
